@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!)](https://git.io/typing-svg)
 # Selim Sherif
 
 Backend Software Engineer | Computer Science Student at University of Manchester
